@@ -38,3 +38,4 @@ name = "cm4"
 kv_namespaces = [
   { binding = "KV", id = "f7081afb04744259bbd4219803f39a44" }
 ]
+
